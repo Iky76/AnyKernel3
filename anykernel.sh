@@ -11,7 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=mido
-supported.versions=10-12
+supported.versions=12-15
 supported.patchlevels=
 '; } # end properties
 
